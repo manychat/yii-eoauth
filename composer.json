@@ -4,8 +4,10 @@
     "minimum-stability": "stable",
     "authors": [
         {
-            "name": "Jorge Barata González",
-            "email": "jorge.barata.gonzalez@gmail.com"
+            "name": "Jorge Barata González"
         }
-    ]
+    ],
+    "homepage": "http://www.yiiframework.com/extension/eoauth/",
+    "type": "library",
+    "license": "MIT"
 }
