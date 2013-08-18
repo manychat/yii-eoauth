@@ -9,5 +9,10 @@
     ],
     "homepage": "http://www.yiiframework.com/extension/eoauth/",
     "type": "library",
-    "license": "MIT"
+    "license": "MIT",
+    "autoload": {
+        "classmap": [
+            "."
+        ]
+    },
 }
